@@ -1,2 +1,2 @@
-# .github
-.github repo for pen-kc org
+# Promoting Equitable Neighborhoods in Kansas City, Missouri
+Promoting Equitable Neighborhoods (PEN) is a coalition ... 
